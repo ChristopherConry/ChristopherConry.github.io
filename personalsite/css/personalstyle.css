@@ -1,0 +1,42 @@
+body {
+  background-color: slategray;
+}
+
+h1 {
+  text-decoration: bold;
+  font-family: helvetica;
+  font-size: 40px;
+  font-style: bold;
+  color: black;
+  text-align: center;
+}
+
+h2 {
+ font-family: helvetica;
+  font-size: 20px;
+  font-style: italic;
+  color: black; 
+  text-align: left;
+}  
+
+h3 {
+  font-family: monospace;
+  font-size: 12;
+  color: black; 
+  text-align: left;
+  }
+h4 { 
+  font-family: helvetica;
+  font-size: 20px;
+  color: black; 
+  text-align: center;
+ }
+ div {
+ 	text-align: center;
+ }
+ ul {
+ 	font-family: monospace;
+ 	font-size: 20;
+    color: black; 
+    font-style: bold;
+ }
